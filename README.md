@@ -1,5 +1,5 @@
 # AI App to Help Professionals Navigate Their Career Journey 🚀   
-## [DeepSeek-R1-Distill-Qwen-1.5B Model](https://ollama.com/library/deepseek-r1:1.5b)  
+## [DeepSeek-R1 Model](https://ollama.com/library/deepseek-r1:1.5b) 
 ### *DeepThink R1 Build* (sounds like a real estate agent, but it’s way smarter! 😉)  
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-Let’s turn your career journey into a success story! 🌟 
+Let’s turn your career journey into a success story! Updated🌟 
 
 ---
 ## Steps to Run Program 🏃‍♂️:
